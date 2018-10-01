@@ -7,6 +7,7 @@ class ProductComponent extends React.Component {
             products: [
                 { Id: 0, Name: "iPhone XS", Price: 999, Stock: 14, Category: "Electronic" },
                 { Id: 1, Name: "iPhone XS MAX", Price: 1199, Stock: 32, Category: "Electronic" },
+                { Id: 2, Name: "Macbook Pro", Price: 1699, Stock: 4, Category: "Notebooks" },
                 { Id: 2, Name: "Macbook Pro", Price: 1699, Stock: 4, Category: "Notebooks" }
             ],
             pname: '',
